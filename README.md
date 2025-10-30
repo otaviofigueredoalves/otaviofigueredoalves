@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Otavio Figueredo
 
-**`Desenvolvedor Front End`**
+**`Desenvolvedor Full Stack**
 
 Me chamo Otavio Figueredo, tenho 19 anos. Atualmente, estou cursando Ciência da Computação no IFCE.
 
