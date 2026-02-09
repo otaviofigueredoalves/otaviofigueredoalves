@@ -10,7 +10,7 @@ Atualmente cursando **Ciência da Computação** e focado em evoluir minhas habi
 * 🐘 **PHP** (Meu foco principal: OOP, Sessions, Segurança)
 * ☕ **JavaScript / TypeScript** (React, NestJS)
 * 🐍 **Python** (Estudos em IA e Redes Neurais)
-* 
+
 **DevOps & Ferramentas:**
 * 🐳 **Docker & Nginx**
 * 🐧 **Linux** (Usuário de Arch/EndeavourOS - *I use Arch btw*)
