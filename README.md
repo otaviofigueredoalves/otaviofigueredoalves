@@ -7,7 +7,7 @@ Atualmente cursando **Ciência da Computação** e focado em evoluir minhas habi
 ### 🛠️ Tech Stack
 
 **Linguagens & Frameworks:**
-* 🐘 **PHP** (Meu foco principal: OOP, Sessions, Segurança)
+* 🐘 **PHP e LARAVEL** (Meu foco principal: OOP, Sessions, Segurança)
 * ☕ **JavaScript / TypeScript** (React, NestJS)
 * 🐍 **Python** (Estudos em IA e Redes Neurais)
 
