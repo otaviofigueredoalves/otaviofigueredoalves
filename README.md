@@ -37,7 +37,6 @@ Atualmente, divido meu tempo entre a construção de soluções backend, o desen
 ### 🏆 Milestones & Curiosidades
 
 * 🏅 Medalhista de Bronze na Olimpíada Brasileira de Astronomia e Astronáutica (OBA - 2020).
-* 📖 Coautor de um livro acadêmico focado em Lógica e Estrutura de Dados.
 * 🎸 Nas horas vagas: Guitarra, Power Metal, Games e Livros.
 
 ---
