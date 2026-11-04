@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Otavio Figueredo — PHP, Laravel e Vue.js</title>
+<desc id="desc">Desenvolvedor Full Stack. APIs, aplicações SaaS e produtos em uso real.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#13263b"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#FF5B55"/><stop offset=".5" stop-color="#B4A5FF"/><stop offset="1" stop-color="#42D392"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+ <style>@keyframes float{50%{transform:translateY(-8px)}} @keyframes pulse{50%{opacity:.35}} .float{animation:float 7s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite} @media(prefers-reduced-motion:reduce){.float,.pulse{animation:none}}</style>
+</defs>
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+<path d="M30 329H1170" stroke="url(#accent)" stroke-width="3"/>
+<circle cx="1057" cy="80" r="150" fill="#42D392" opacity=".035"/>
+<circle cx="1100" cy="280" r="160" fill="#FF5B55" opacity=".035"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <circle class="pulse" cx="56" cy="48" r="5" fill="#42D392"/>
+ <text x="72" y="53" fill="#a7b7cd" font-size="13" letter-spacing="3">FULL STACK DEVELOPER</text>
+ <text x="50" y="127" fill="#f1f5fc" font-size="55" font-weight="700" letter-spacing="-2">Otavio Figueredo</text>
+ <text x="53" y="168" fill="#9eafc6" font-size="19">Transformando regras de negócio em software.</text>
+ <g transform="translate(52 202)" font-size="15" font-weight="700">
+  <rect width="90" height="35" rx="9" fill="#787CB5" fill-opacity=".2"/><text x="27" y="23" fill="#c1c6ff">PHP</text>
+  <rect x="102" width="112" height="35" rx="9" fill="#FF5B55" fill-opacity=".12"/><text x="126" y="23" fill="#ff817a">Laravel</text>
+  <rect x="226" width="104" height="35" rx="9" fill="#42D392" fill-opacity=".12"/><text x="248" y="23" fill="#42D392">Vue.js</text>
+ </g>
+ <text x="53" y="285" fill="#6f859f" font-size="14">APIs REST / SaaS / Integração de dados</text>
+</g>
+<g class="float" font-family="monospace" transform="translate(0 0)">
+ <rect x="822" y="79" width="324" height="188" rx="14" fill="#0a1220" stroke="#283b53"/>
+ <path d="M822 115H1146" stroke="#283b53"/>
+ <circle cx="842" cy="97" r="4" fill="#ff6b6b"/><circle cx="857" cy="97" r="4" fill="#f0bf60"/><circle cx="872" cy="97" r="4" fill="#42D392"/>
+ <text x="843" y="148" fill="#758ca7" font-size="14">// construir. validar. evoluir.</text>
+ <text x="843" y="180" fill="#c0b2ff" font-size="16">$developer</text><text x="941" y="180" fill="#f1f5fc" font-size="16">-&gt;build([</text>
+ <text x="866" y="209" fill="#42D392" font-size="15">'Laravel', 'Vue', 'APIs'</text>
+ <text x="843" y="238" fill="#f1f5fc" font-size="16">]);</text><path class="pulse" d="M880 224V240" stroke="#42D392" stroke-width="7"/>
+</g>
+</svg>

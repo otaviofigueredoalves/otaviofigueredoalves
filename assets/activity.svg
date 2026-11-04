@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+<title id="title">Painel público do GitHub</title><desc id="desc">Aguardando a primeira atualização pelo GitHub Actions. Nenhuma métrica foi presumida.</desc>
+<rect width="1100" height="220" rx="20" fill="#0b1220"/>
+<g font-family="Arial,Helvetica,sans-serif"><circle cx="32" cy="35" r="4" fill="#42d392"/><text x="47" y="40" fill="#a9b9ce" font-size="13" letter-spacing="2">PUBLIC REPOSITORIES / LIVE SNAPSHOT</text>
+<text x="30" y="100" fill="#f1f5fc" font-size="28" font-weight="700">Código em movimento.</text>
+<text x="30" y="139" fill="#92a5bf" font-size="16">O painel será preenchido na primeira execução do GitHub Actions.</text>
+<text x="30" y="183" fill="#6f859f" font-size="13">Repositórios públicos próprios · Sem métricas presumidas · Atualização diária</text></g></svg>
