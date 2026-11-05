@@ -1,7 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
-<title id="title">Painel público do GitHub</title><desc id="desc">Aguardando a primeira atualização pelo GitHub Actions. Nenhuma métrica foi presumida.</desc>
-<rect width="1100" height="220" rx="20" fill="#0b1220"/>
-<g font-family="Arial,Helvetica,sans-serif"><circle cx="32" cy="35" r="4" fill="#42d392"/><text x="47" y="40" fill="#a9b9ce" font-size="13" letter-spacing="2">PUBLIC REPOSITORIES / LIVE SNAPSHOT</text>
-<text x="30" y="100" fill="#f1f5fc" font-size="28" font-weight="700">Código em movimento.</text>
-<text x="30" y="139" fill="#92a5bf" font-size="16">O painel será preenchido na primeira execução do GitHub Actions.</text>
-<text x="30" y="183" fill="#6f859f" font-size="13">Repositórios públicos próprios · Sem métricas presumidas · Atualização diária</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title">
+<title id="title">Repositórios públicos próprios e últimos repositórios com push registrado</title>
+<rect width="1100" height="330" rx="20" fill="#0b1220"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<circle cx="32" cy="35" r="4" fill="#42d392"/>
+<text x="47" y="40" fill="#a9b9ce" font-size="13" letter-spacing="2">PUBLIC REPOSITORIES / LIVE SNAPSHOT</text>
+<text x="30" y="96" fill="#f1f5fc" font-size="37" font-weight="700">32</text>
+<text x="30" y="122" fill="#92a5bf" font-size="14">repositórios próprios</text>
+<text x="280" y="96" fill="#42d392" font-size="37" font-weight="700">4</text>
+<text x="280" y="122" fill="#92a5bf" font-size="14">estrelas nos repositórios</text>
+<text x="550" y="88" fill="#c3b5ff" font-size="17">PHP / HTML / C / CSS</text>
+<text x="550" y="116" fill="#92a5bf" font-size="13">linguagens principais por número de repositórios</text>
+<path d="M30 145H1070" stroke="#23354c"/>
+<text x="30" y="173" fill="#92a5bf" font-size="12" letter-spacing="2">ÚLTIMOS REPOSITÓRIOS COM PUSH REGISTRADO</text>
+<text x="30" y="204" fill="#e0e8f5" font-size="16">avaliacaoII_LP1</text>
+<text x="960" y="204" fill="#7e95b2" font-size="13">2026-10-29</text>
+<text x="30" y="234" fill="#e0e8f5" font-size="16">dinamizador_curriculo</text>
+<text x="960" y="234" fill="#7e95b2" font-size="13">2026-09-19</text>
+<text x="30" y="264" fill="#e0e8f5" font-size="16">master_data_management</text>
+<text x="960" y="264" fill="#7e95b2" font-size="13">2026-09-05</text>
+<text x="30" y="308" fill="#6f859f" font-size="12">Atualizado em 05/11/2026 · 17:25 UTC · Sem forks, repositórios privados ou repositório do perfil.</text></g></svg>
