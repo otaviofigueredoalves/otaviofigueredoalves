@@ -80,9 +80,9 @@ Minha atuação inclui validação de submissões, idempotência, transações, 
 </p>
 
 <!-- ACTIVITY:START -->
+- [etib-laravel-minicurso](https://github.com/otaviofigueredoalves/etib-laravel-minicurso) · último push registrado em 2026-11-12
 - [avaliacaoII_LP1](https://github.com/otaviofigueredoalves/avaliacaoII_LP1) · último push registrado em 2026-10-29
 - [dinamizador_curriculo](https://github.com/otaviofigueredoalves/dinamizador_curriculo) · último push registrado em 2026-09-19
-- [master_data_management](https://github.com/otaviofigueredoalves/master_data_management) · último push registrado em 2026-09-05
 <!-- ACTIVITY:END -->
 
 <sub>O painel considera repositórios públicos próprios, exclui forks e este repositório de perfil. Não representa todo o trabalho profissional, que também ocorre em repositórios privados.</sub>
