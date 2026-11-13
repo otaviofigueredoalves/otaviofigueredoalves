@@ -4,7 +4,7 @@
 <g font-family="Arial,Helvetica,sans-serif">
 <circle cx="32" cy="35" r="4" fill="#42d392"/>
 <text x="47" y="40" fill="#a9b9ce" font-size="13" letter-spacing="2">PUBLIC REPOSITORIES / LIVE SNAPSHOT</text>
-<text x="30" y="96" fill="#f1f5fc" font-size="37" font-weight="700">33</text>
+<text x="30" y="96" fill="#f1f5fc" font-size="37" font-weight="700">34</text>
 <text x="30" y="122" fill="#92a5bf" font-size="14">repositórios próprios</text>
 <text x="280" y="96" fill="#42d392" font-size="37" font-weight="700">7</text>
 <text x="280" y="122" fill="#92a5bf" font-size="14">estrelas nos repositórios</text>
@@ -12,10 +12,10 @@
 <text x="550" y="116" fill="#92a5bf" font-size="13">linguagens principais por número de repositórios</text>
 <path d="M30 145H1070" stroke="#23354c"/>
 <text x="30" y="173" fill="#92a5bf" font-size="12" letter-spacing="2">ÚLTIMOS REPOSITÓRIOS COM PUSH REGISTRADO</text>
-<text x="30" y="204" fill="#e0e8f5" font-size="16">etib-laravel-minicurso</text>
+<text x="30" y="204" fill="#e0e8f5" font-size="16">AGENDAMENTO_SALAO_SAAS</text>
 <text x="960" y="204" fill="#7e95b2" font-size="13">2026-11-12</text>
-<text x="30" y="234" fill="#e0e8f5" font-size="16">avaliacaoII_LP1</text>
-<text x="960" y="234" fill="#7e95b2" font-size="13">2026-10-29</text>
-<text x="30" y="264" fill="#e0e8f5" font-size="16">dinamizador_curriculo</text>
-<text x="960" y="264" fill="#7e95b2" font-size="13">2026-09-19</text>
-<text x="30" y="308" fill="#6f859f" font-size="12">Atualizado em 12/11/2026 · 17:36 UTC · Sem forks, repositórios privados ou repositório do perfil.</text></g></svg>
+<text x="30" y="234" fill="#e0e8f5" font-size="16">etib-laravel-minicurso</text>
+<text x="960" y="234" fill="#7e95b2" font-size="13">2026-11-12</text>
+<text x="30" y="264" fill="#e0e8f5" font-size="16">avaliacaoII_LP1</text>
+<text x="960" y="264" fill="#7e95b2" font-size="13">2026-10-29</text>
+<text x="30" y="308" fill="#6f859f" font-size="12">Atualizado em 13/11/2026 · 17:14 UTC · Sem forks, repositórios privados ou repositório do perfil.</text></g></svg>
